@@ -1,0 +1,23 @@
+.menu {
+  list-style: none;
+  text-align: right;
+  display: inline;
+}
+
+li {
+  display: inline;
+  text-align: right;
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  text-align: right;
+}
+
+.field {
+  width: 50%;
+  background-image: url('http://www.elandroidelibre.com/wp-content/uploads/2015/10/google-microfono.jpg') no-repeat;
+}
